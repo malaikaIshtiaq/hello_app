@@ -1,6 +1,5 @@
 # Sample App
 
-## Hello App
 Following a long tradition in computer programming, my  goal for the first application is to write a “hello, world” program. In particular, i have created a simple application that displays the string “hello, world!” on a web page, both on my development environment and on the live web.
 
 ### The directory structure for a newly created Rails app.
