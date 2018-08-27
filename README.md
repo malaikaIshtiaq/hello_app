@@ -26,3 +26,4 @@ Gemfile	| Gem requirements for this app
 Gemfile.lock |	A list of gems used to ensure that all copies of the app use the same gem versions
 config.ru |	A configuration file for Rack middleware
 .gitignore	| Patterns for files that should be ignored by Git
+The end
